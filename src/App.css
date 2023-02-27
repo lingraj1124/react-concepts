@@ -1,0 +1,33 @@
+.main-class{
+  margin-left: 15px;
+}
+
+.pagebtn{
+  margin-top: 40px;
+}
+
+.btn{
+  margin: 10px;
+}
+
+.frm {
+  display: flex;
+    flex-direction: column;
+    width: 300px;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 10%;
+    padding: 10px;
+    border: 1px solid;
+}
+
+.frm-fld {
+  justify-content: center;
+  display: flex;
+}
+
+p {
+  margin-top: 2px;
+  text-align: center;
+}
